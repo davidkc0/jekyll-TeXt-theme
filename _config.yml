@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: '/'
-title: Someone's blog
+title: Woozle
 description: > #this means to ignore newlines until "nav_lists:"
   Someone's Blog
 
@@ -27,12 +27,12 @@ nav_lists:
 # repository_tree: e.g. master
 
 ## Language & timezone ##
-lang: zh #the language of your site
-timezone: Asia/Shanghai
+lang: en #the language of your site
+timezone: America/Los_Angeles
 
 ## Author & social ##
 author:
-  name: Someone
+  name: Woozle
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
@@ -58,7 +58,7 @@ leancloud:
 # mathjax: true
 
 ## Paginate ##
-paginate: 5
+paginate: 6
 paginate_path: /blog/page:num
 
 ## Post excerpts ##
